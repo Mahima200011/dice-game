@@ -25,9 +25,6 @@ To run the dice game website locally, you need:
 
 A web browser (e.g., Chrome, Firefox).
 
-## Installation
-
-Clone this repository to your local machine:(https://github.com/Godson2611/Dice-Game.git)
 
 Navigate to the project directory link:(https://dice-game-pages.netlify.app/)
 
